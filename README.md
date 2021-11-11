@@ -1,2 +1,2 @@
-# EnviZion Contracts
+# About EnviZion
 EnviZion is a creation system of cosmos. It has 10 ancient cosmic consciousnesses, each with different abilities. In order to make each consciousness appear less abstract, they present different images. The image of the first consciousness is a panda. In EnviZion's ancient consciousness, the panda is the embodiment of creativity.
